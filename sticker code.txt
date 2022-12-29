@@ -1,0 +1,1 @@
+https://developers.line.biz/en/docs/messaging-api/sticker-list/#sticker-definitions
